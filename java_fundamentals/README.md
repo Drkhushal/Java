@@ -33,57 +33,33 @@
 
 ---
 
-## 🧪 Class Work & Practice Code
+## 🧪 Class Work
 
-This section contains **raw classroom implementations and practice programs**.
+### 💻 Practice Programs
 
-Unlike the structured notes, this folder focuses on:
+These are **applied implementations** where concepts like arrays, loops, and conditions are used together.
 
-- Applying concepts in real code
-- Combining multiple topics together
-- Understanding how concepts interact in programs
+Includes:
 
----
+- Basic input handling and string operations
+- OOP concepts like classes and access modifiers
+- Mini project: Student Management System
 
-### 📂 Contents
-
-#### 🧾 Basic Input & String Operations
-
-- User input using `Scanner`
-- String manipulation (uppercase, lowercase, length)
-
-👉 📄 [View Code](./class_work/Demojava.java)
+👉 📄 [View Practice Programs](./class_work/practice_programs/README.md)
 
 ---
 
-#### 🔐 Access Modifiers + Loops Demo
+### 📘 Class Work (Resources)
 
-- `public`, `private`, `protected`, default
-- Object creation and method access
-- Loop implementation
+This section contains **raw academic material and instructor notes**.
 
-👉 📄 [View Code](./class_work/AccessM.java)
-
----
-
-#### 🎓 Student Management System (Mini Project)
-
-- Arrays for storing data
-- Loops for processing
-- Conditional logic for grading system
-- Real-world structured program
-
-👉 📄 [View Code](./class_work/StudentManagementSystem.java)
-
----
-
-#### 📘 Theory Notes (Class Material)
+Includes:
 
 - Fundamentals of Java
 - Arrays concepts
 - Access modifiers explanation
 
-👉 📄 [View Notes](./class_work/)
+👉 📄 [View Resources](./class_work/resources/)
 
 ---
 
