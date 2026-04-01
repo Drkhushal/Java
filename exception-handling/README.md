@@ -1,8 +1,4 @@
-Here are **clean, combined notes** from all your uploaded files (PDF + all Java programs). This is structured so you can directly use it for exams or revision.
-
----
-
-# 📘 Java Exception Handling — Combined Notes
+# 📘 Java Exception Handling
 
 ---
 
